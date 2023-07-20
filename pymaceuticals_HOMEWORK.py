@@ -7,8 +7,9 @@
 # ### Analysis
 # 
 # - Add your analysis here.
-#  
-
+# observations1- the data is 51% male where 49% female, so both sexes are acounted for rather equally  
+#observations2- Capomulin and provriva tends to have the greatest number of time points showing that they are most effective 
+#observations3- zoniferol has the least number of time points showing it is least effective
 # In[1]:
 
 
